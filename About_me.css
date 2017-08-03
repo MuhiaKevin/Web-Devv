@@ -1,0 +1,66 @@
+.wrapp{
+	width: 500px;
+	height: 500px;
+	margin : auto;
+	margin-top: 60px;
+	background: #FFFAF0;
+	border: 0 solid #428bca;
+	border-radius: 10px;
+
+
+}
+
+body{
+	background: url(../Images/road.jpg);
+}
+
+.wrapp img{
+	margin-top: 20px;
+	height: 120px;
+	border-radius: 100px;
+	margin-left: 20px;
+}
+
+.wrapp p{
+	padding-left: 10px;
+	padding-top: 20px;
+}
+
+.blog-masthead {
+  background-color: #428bca;
+  	box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
+  	border-radius: 5px;
+
+}
+
+
+#head_links li {
+	display: inline-block;
+	margin-top: 20px;
+	margin: 10px;
+}
+
+#head_links{
+	margin-left: 450px;
+	padding-left: 10px;
+}
+
+#head_links li a{
+	color: white;
+}
+
+
+.blog-masthead li a:hover{
+	border: 0px solid #428bca;
+	border-radius: 5px;
+	background: green;
+	height: 10px;
+
+}
+
+
+p{
+	font-family: cursive;
+}
+
+
